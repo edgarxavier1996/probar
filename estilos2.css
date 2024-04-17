@@ -1,0 +1,17 @@
+header,div{
+    
+    color: blue;
+    padding: 10px;
+    display: inline;
+}
+.img{
+    width: 50px;
+    margin-right: 1100px;
+}
+
+.buscar{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(236, 236, 236);
+    padding: 10px;
+
+}
